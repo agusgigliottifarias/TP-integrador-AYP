@@ -3,7 +3,7 @@ Proyecto del ahorcado
 
 Asignatura: Algoritmica y Programación I
 
-Integrantes:
+Integrantes: \n
 -Chuckel Danilo Sebastián
 -Gigliotti Farias Agustín Guillermo
 -Kutnich Moisés Agustín
